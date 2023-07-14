@@ -1,16 +1,4 @@
-# p1
+# BUYEEI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Wireframe - 1](https://github.com/brendabarraza/BUYEEI/assets/74740129/c697a78a-cd77-42fd-9b00-e991c3ff0bf5)
+![Wireframe - 2(1)](https://github.com/brendabarraza/BUYEEI/assets/74740129/9c56325f-ebb7-4be3-8562-ee82981a1cde)
